@@ -1,0 +1,9 @@
+[BOOKS]
+"BK001","The Pragmatic Programmer","Andrew Hunt","Technology",1999,1
+"BK002","Clean Code","Robert C. Martin","Technology",2008,1
+"BK003","The Hobbit","J. R. R. Tolkien","Fantasy",1937,1
+"BK004","A Brief History of Time","Stephen Hawking","Science",1988,1
+[MEMBERS]
+"MB001","Aarav Sharma","aarav@example.test"
+"MB002","Meera Joshi","meera@example.test"
+[LOANS]
